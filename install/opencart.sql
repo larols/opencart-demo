@@ -370,7 +370,7 @@ CREATE TABLE `oc_category_description` (
 
 INSERT INTO `oc_category_description` (`category_id`, `language_id`, `name`, `description`, `meta_title`, `meta_description`, `meta_keyword`) VALUES
 (28, 1, 'Monitors', '', 'Monitors', '', ''),
-(33, 1, 'Multipacks', '', 'Multipacks', '', ''),
+(33, 1, 'Women', '', 'Women', '', ''),
 (32, 1, 'Web Cameras', '', 'Web Cameras', '', ''),
 (31, 1, 'Scanners', '', 'Scanners', '', ''),
 (30, 1, 'Printers', '', 'Printers', '', ''),
@@ -379,8 +379,8 @@ INSERT INTO `oc_category_description` (`category_id`, `language_id`, `name`, `de
 (26, 1, 'PC', '', 'PC', '', ''),
 (17, 1, 'Outlet', '', 'Outlet', '', ''),
 (25, 1, 'Men', '', 'Men', '', ''),
-(24, 1, 'Bestsellers', '', 'Bestsellers', '', ''),
-(20, 1, 'Classics', '&lt;p&gt;\r\n	Example of category description text&lt;/p&gt;\r\n', 'Classics', 'Example of category description', ''),
+(24, 1, 'Classics', '', 'Classics', '', ''),
+(20, 1, 'Bestsellers', '&lt;p&gt;\r\n	Example of category description text&lt;/p&gt;\r\n', 'Bestsellers', 'Example of category description', ''),
 (35, 1, 'test 1', '', 'test 1', '', ''),
 (36, 1, 'test 2', '', 'test 2', '', ''),
 (37, 1, 'test 5', '', 'test 5', '', ''),
