@@ -244,8 +244,8 @@ CREATE TABLE `oc_banner_image` (
 --
 
 INSERT INTO `oc_banner_image` (`banner_image_id`, `banner_id`, `language_id`, `title`, `link`, `image`, `sort_order`) VALUES
-(79, 7, 1, '7 Pack', 'index.php?route=product/product&amp;path=57&amp;product_id=49', 'catalog/demo/banners/banner1.jpg', 0),
-(87, 6, 1, 'HP Banner', 'index.php?route=product/manufacturer/info&amp;manufacturer_id=7', 'catalog/demo/compaq_presario.jpg', 0),
+(79, 7, 1, 'Banner1', 'index.php?route=product/product&amp;path=57&amp;product_id=49', 'catalog/demo/banners/banner1.jpg', 0),
+(87, 6, 1, 'Banner2', 'index.php?route=product/manufacturer/info&amp;manufacturer_id=7', 'catalog/demo/banner2.jpg', 0),
 (94, 8, 1, 'NFL', '', 'catalog/demo/manufacturer/nfl.png', 0),
 (95, 8, 1, 'RedBull', '', 'catalog/demo/manufacturer/redbull.png', 0),
 (96, 8, 1, 'Sony', '', 'catalog/demo/manufacturer/sony.png', 0),
