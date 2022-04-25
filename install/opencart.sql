@@ -377,10 +377,10 @@ INSERT INTO `oc_category_description` (`category_id`, `language_id`, `name`, `de
 (29, 1, 'Mice and Trackballs', '', 'Mice and Trackballs', '', ''),
 (27, 1, 'Mac', '', 'Mac', '', ''),
 (26, 1, 'PC', '', 'PC', '', ''),
-(17, 1, 'Outlet', '', 'Outlet', '', ''),
+(17, 1, 'Multipacks', '', 'Multipacks', '', ''),
 (25, 1, 'Men', '', 'Men', '', ''),
 (24, 1, 'Classics', '', 'Classics', '', ''),
-(20, 1, 'Bestsellers', '&lt;p&gt;\r\n	Example of category description text&lt;/p&gt;\r\n', 'Bestsellers', 'Example of category description', ''),
+(20, 1, 'Bestsellers1', '&lt;p&gt;\r\n	Example of category description text&lt;/p&gt;\r\n', 'Bestsellers1', 'Example of category description', ''),
 (35, 1, 'test 1', '', 'test 1', '', ''),
 (36, 1, 'test 2', '', 'test 2', '', ''),
 (37, 1, 'test 5', '', 'test 5', '', ''),
@@ -390,7 +390,7 @@ INSERT INTO `oc_category_description` (`category_id`, `language_id`, `name`, `de
 (41, 1, 'test 8', '', 'test 8', '', ''),
 (42, 1, 'test 9', '', 'test 9', '', ''),
 (43, 1, 'test 11', '', 'test 11', '', ''),
-(34, 1, 'Other Stuff', '&lt;p&gt;\r\n	Shop Laptop feature only the best laptop deals on the market. By comparing laptop deals from the likes of PC World, Comet, Dixons, The Link and Carphone Warehouse, Shop Laptop has the most comprehensive selection of laptops on the internet. At Shop Laptop, we pride ourselves on offering customers the very best laptop deals. From refurbished laptops to netbooks, Shop Laptop ensures that every laptop - in every colour, style, size and technical spec - is featured on the site at the lowest possible price.&lt;/p&gt;\r\n', 'Other Stuff', '', ''),
+(34, 1, 'Other ', '&lt;p&gt;\r\n	Shop Laptop feature only the best laptop deals on the market. By comparing laptop deals from the likes of PC World, Comet, Dixons, The Link and Carphone Warehouse, Shop Laptop has the most comprehensive selection of laptops on the internet. At Shop Laptop, we pride ourselves on offering customers the very best laptop deals. From refurbished laptops to netbooks, Shop Laptop ensures that every laptop - in every colour, style, size and technical spec - is featured on the site at the lowest possible price.&lt;/p&gt;\r\n', 'Other', '', ''),
 (18, 1, 'Bestsellers', '&lt;p&gt;\r\n	Shop Laptop feature only the best laptop deals on the market. By comparing laptop deals from the likes of PC World, Comet, Dixons, The Link and Carphone Warehouse, Shop Laptop has the most comprehensive selection of laptops on the internet. At Shop Laptop, we pride ourselves on offering customers the very best laptop deals. From refurbished laptops to netbooks, Shop Laptop ensures that every laptop - in every colour, style, size and technical spec - is featured on the site at the lowest possible price.&lt;/p&gt;\r\n', 'Bestsellers', '', ''),
 (44, 1, 'test 12', '', 'test 12', '', ''),
 (45, 1, 'Windows', '', 'Windows', '', ''),
@@ -405,7 +405,7 @@ INSERT INTO `oc_category_description` (`category_id`, `language_id`, `name`, `de
 (54, 1, 'test 22', '', 'test 22', '', ''),
 (55, 1, 'test 23', '', 'test 23', '', ''),
 (56, 1, 'test 24', '', 'test 24', '', ''),
-(57, 1, 'Multipacks', '', 'Multipacks', '', ''),
+(57, 1, 'Women', '', 'Women', '', ''),
 (58, 1, 'test 25', '', 'test 25', '', '');
 
 
