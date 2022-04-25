@@ -245,7 +245,7 @@ CREATE TABLE `oc_banner_image` (
 
 INSERT INTO `oc_banner_image` (`banner_image_id`, `banner_id`, `language_id`, `title`, `link`, `image`, `sort_order`) VALUES
 (79, 7, 1, 'Banner1', 'index.php?route=product/product&amp;path=57&amp;product_id=49', 'catalog/demo/banners/banner1.jpg', 0),
-(87, 6, 1, 'Banner2', 'index.php?route=product/manufacturer/info&amp;manufacturer_id=7', 'catalog/demo/banner2.jpg', 0),
+(87, 6, 1, 'HP Banner', 'index.php?route=product/manufacturer/info&amp;manufacturer_id=7', 'catalog/demo/compaq_presario.jpg', 0),
 (94, 8, 1, 'NFL', '', 'catalog/demo/manufacturer/nfl.png', 0),
 (95, 8, 1, 'RedBull', '', 'catalog/demo/manufacturer/redbull.png', 0),
 (96, 8, 1, 'Sony', '', 'catalog/demo/manufacturer/sony.png', 0),
@@ -255,7 +255,7 @@ INSERT INTO `oc_banner_image` (`banner_image_id`, `banner_id`, `language_id`, `t
 (88, 8, 1, 'Harley Davidson', '', 'catalog/demo/manufacturer/harley.png', 0),
 (89, 8, 1, 'Dell', '', 'catalog/demo/manufacturer/dell.png', 0),
 (90, 8, 1, 'Disney', '', 'catalog/demo/manufacturer/disney.png', 0),
-(80, 7, 1, 'MacBookAir', '', 'catalog/demo/banners/MacBookAir.jpg', 0),
+(80, 7, 1, 'Banner2', '', 'catalog/demo/banners/banner2.jpg', 0),
 (97, 8, 1, 'Starbucks', '', 'catalog/demo/manufacturer/starbucks.png', 0),
 (98, 8, 1, 'Nintendo', '', 'catalog/demo/manufacturer/nintendo.png', 0);
 
