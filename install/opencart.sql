@@ -244,7 +244,7 @@ CREATE TABLE `oc_banner_image` (
 --
 
 INSERT INTO `oc_banner_image` (`banner_image_id`, `banner_id`, `language_id`, `title`, `link`, `image`, `sort_order`) VALUES
-(79, 7, 1, 'Banner1', 'index.php?route=product/product&amp;path=57&amp;product_id=49', 'catalog/demo/banners/banner1.jpg', 0),
+(79, 7, 1, 'Banner2', '', 'catalog/demo/banners/banner2.jpg', 0),
 (87, 6, 1, 'HP Banner', 'index.php?route=product/manufacturer/info&amp;manufacturer_id=7', 'catalog/demo/compaq_presario.jpg', 0),
 (94, 8, 1, 'NFL', '', 'catalog/demo/manufacturer/nfl.png', 0),
 (95, 8, 1, 'RedBull', '', 'catalog/demo/manufacturer/redbull.png', 0),
@@ -255,7 +255,7 @@ INSERT INTO `oc_banner_image` (`banner_image_id`, `banner_id`, `language_id`, `t
 (88, 8, 1, 'Harley Davidson', '', 'catalog/demo/manufacturer/harley.png', 0),
 (89, 8, 1, 'Dell', '', 'catalog/demo/manufacturer/dell.png', 0),
 (90, 8, 1, 'Disney', '', 'catalog/demo/manufacturer/disney.png', 0),
-(80, 7, 1, 'Banner2', '', 'catalog/demo/banners/banner2.jpg', 0),
+(80, 7, 1, 'Banner1', '', 'catalog/demo/banners/banner1.jpg', 0),
 (97, 8, 1, 'Starbucks', '', 'catalog/demo/manufacturer/starbucks.png', 0),
 (98, 8, 1, 'Nintendo', '', 'catalog/demo/manufacturer/nintendo.png', 0);
 
@@ -377,7 +377,7 @@ INSERT INTO `oc_category_description` (`category_id`, `language_id`, `name`, `de
 (29, 1, 'Mice and Trackballs', '', 'Mice and Trackballs', '', ''),
 (27, 1, 'Mac', '', 'Mac', '', ''),
 (26, 1, 'PC', '', 'PC', '', ''),
-(17, 1, 'Children', '', 'Children', '', ''),
+(17, 1, 'Outlet', '', 'Outlet', '', ''),
 (25, 1, 'Men', '', 'Men', '', ''),
 (24, 1, 'Bestsellers', '', 'Bestsellers', '', ''),
 (20, 1, 'Classics', '&lt;p&gt;\r\n	Example of category description text&lt;/p&gt;\r\n', 'Classics', 'Example of category description', ''),
@@ -391,7 +391,7 @@ INSERT INTO `oc_category_description` (`category_id`, `language_id`, `name`, `de
 (42, 1, 'test 9', '', 'test 9', '', ''),
 (43, 1, 'test 11', '', 'test 11', '', ''),
 (34, 1, 'Other Stuff', '&lt;p&gt;\r\n	Shop Laptop feature only the best laptop deals on the market. By comparing laptop deals from the likes of PC World, Comet, Dixons, The Link and Carphone Warehouse, Shop Laptop has the most comprehensive selection of laptops on the internet. At Shop Laptop, we pride ourselves on offering customers the very best laptop deals. From refurbished laptops to netbooks, Shop Laptop ensures that every laptop - in every colour, style, size and technical spec - is featured on the site at the lowest possible price.&lt;/p&gt;\r\n', 'Other Stuff', '', ''),
-(18, 1, 'Women', '&lt;p&gt;\r\n	Shop Laptop feature only the best laptop deals on the market. By comparing laptop deals from the likes of PC World, Comet, Dixons, The Link and Carphone Warehouse, Shop Laptop has the most comprehensive selection of laptops on the internet. At Shop Laptop, we pride ourselves on offering customers the very best laptop deals. From refurbished laptops to netbooks, Shop Laptop ensures that every laptop - in every colour, style, size and technical spec - is featured on the site at the lowest possible price.&lt;/p&gt;\r\n', 'Women', '', ''),
+(18, 1, 'Bestsellers', '&lt;p&gt;\r\n	Shop Laptop feature only the best laptop deals on the market. By comparing laptop deals from the likes of PC World, Comet, Dixons, The Link and Carphone Warehouse, Shop Laptop has the most comprehensive selection of laptops on the internet. At Shop Laptop, we pride ourselves on offering customers the very best laptop deals. From refurbished laptops to netbooks, Shop Laptop ensures that every laptop - in every colour, style, size and technical spec - is featured on the site at the lowest possible price.&lt;/p&gt;\r\n', 'Bestsellers', '', ''),
 (44, 1, 'test 12', '', 'test 12', '', ''),
 (45, 1, 'Windows', '', 'Windows', '', ''),
 (46, 1, 'Macs', '', 'Macs', '', ''),
@@ -405,7 +405,7 @@ INSERT INTO `oc_category_description` (`category_id`, `language_id`, `name`, `de
 (54, 1, 'test 22', '', 'test 22', '', ''),
 (55, 1, 'test 23', '', 'test 23', '', ''),
 (56, 1, 'test 24', '', 'test 24', '', ''),
-(57, 1, 'Outlet', '', 'Outlet', '', ''),
+(57, 1, 'Multipacks', '', 'Multipacks', '', ''),
 (58, 1, 'test 25', '', 'test 25', '', '');
 
 
