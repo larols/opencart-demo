@@ -379,7 +379,7 @@ INSERT INTO `oc_category_description` (`category_id`, `language_id`, `name`, `de
 (26, 1, 'PC', '', 'PC', '', ''),
 (17, 1, 'Children', '', 'Children', '', ''),
 (25, 1, 'Men', '', 'Men', '', ''),
-(24, 1, 'Classics', '', 'Classics', '', ''),
+(24, 1, 'Multipacks', '', 'Multipacks', '', ''),
 (20, 1, 'Bestsellers', '&lt;p&gt;\r\n	Example of category description text&lt;/p&gt;\r\n', 'Bestsellers', 'Example of category description', ''),
 (35, 1, 'test 1', '', 'test 1', '', ''),
 (36, 1, 'test 2', '', 'test 2', '', ''),
