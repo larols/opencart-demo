@@ -380,7 +380,6 @@ INSERT INTO `oc_category_description` (`category_id`, `language_id`, `name`, `de
 (17, 1, 'Funky Womens socks', '', 'Funky Womens socks', '', ''),
 (25, 1, 'Classics', '', 'Classics', '', ''),
 (24, 1, 'Funky Mens socks', '', 'Funky Mens socks', '', ''),
-(20, 1, 'Desktops', '&lt;p&gt;\r\n	Example of category description text&lt;/p&gt;\r\n', 'Desktops', 'Example of category description', ''),
 (35, 1, 'test 1', '', 'test 1', '', ''),
 (36, 1, 'test 2', '', 'test 2', '', ''),
 (37, 1, 'test 5', '', 'test 5', '', ''),
