@@ -1,3 +1,3 @@
-# opencart-demo
+# thesockshop-demo
 
-OpenCart Demo Application
+The Sockshop Application
